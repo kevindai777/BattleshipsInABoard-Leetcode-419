@@ -1,5 +1,9 @@
 //Objective is to count the number of battleships on a board
 
+let board = 
+[['X','.','.','X'],
+ ['.','.','.','X'],
+ ['.','.','.','X']
 
 //O(nm) solution that checks each tile and it's sides
 
