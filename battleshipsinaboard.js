@@ -5,8 +5,8 @@ let board =
  ['.','.','.','X'],
  ['.','.','.','X']
 
+ 
 //O(nm) solution that checks each tile and it's sides
-
 let count = 0
     
 for (let i = 0; i < board.length; i++) {
